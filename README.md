@@ -15,10 +15,13 @@ An end-to-end data analysis and visualization project based on PhonePe Pulse dat
 
 ## 📁 Folder Structure
 
-├── notebooks/ # Jupyter notebook with EDA, modeling
-├── src/ # Streamlit dashboard and model files
-├── reports/ # Visual assets and summary documents
-├── sql/ # MySQL schema
+├── notebooks/ #Jupyter notebook with EDA, modeling
+
+├── src/ #Streamlit dashboard and model files
+
+├── reports/ #Visual assets and summary documents
+
+├── sql/ #MySQL schema
 
 ---
 
